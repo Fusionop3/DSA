@@ -3,8 +3,7 @@ using namespace std;
 int main()
 {
     int a;
-    cout<<"Enter the number:"3
-    ;
+    cout<<"Enter the number:";
     cin>>a;
     if(a<=3){
         cout<<"Yes it is small.";
